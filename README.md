@@ -1,4 +1,3 @@
-# [itnuwm.github.io/about/](https://itnuwm.github.io/about/)
 # 🌊 Національний університет водного господарства та природокористування (НУВГП)
 
 > **Engineering. Innovation. Sustainability.**  
